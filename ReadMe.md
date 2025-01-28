@@ -1,5 +1,5 @@
 
-  👋 Hi, I’m Muhammad Zohaib Sarwar!
+  👋 **Hi, I’m Muhammad Zohaib Sarwar!**
 
   🔍 I’m a **Data Scientist** and **Machine Learning Engineer** with a passion for building AI-driven solutions that solve real-world problems. My expertise lies in predictive modeling, time-series analysis, and developing scalable ML workflows for industries like **transportation**, **infrastructure monitoring**, and **energy systems**.
 
